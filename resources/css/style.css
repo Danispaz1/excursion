@@ -1,8 +1,13 @@
-#DiscoverTitle {
+body{
+    background-color: black;
+    text-align: center;
+    color:aliceblue
+}
+h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
-    color: white;
+    color: lightcoral;
     text-align: center;
 }
 .coming {
@@ -15,11 +20,7 @@
     font-size: 21px;
     color: gray;
 }
-.background {
-    background-color: black;
-    text-align: center;
-}
-.link {
+a {
     color: aquamarine;
     font-size: 16px;
 
